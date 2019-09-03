@@ -1,12 +1,11 @@
 {
-  "students": [
-  {
-    "id": 1,
-    "firstname": "Testeroni",
-    "lastname": "Tester",
-    "age": 20,
-    "dob": 99-99-9999,
-    "studentnumber": 123456
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
- ]
 }
