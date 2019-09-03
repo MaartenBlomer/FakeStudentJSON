@@ -1,8 +1,11 @@
 {
-  "posts": [
+  "students": [
     {
       "id": 1,
-      "title": "hello"
+      "firstname": "Testeroni",
+      "lastname": "Tester",
+      "studentnumber": 123456,
+      "dob": "99-99-9999"
     }
   ],
   "profile": {
