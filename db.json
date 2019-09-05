@@ -2,7 +2,7 @@
   "students": [
     {
       "id": 123456,
-      "firstname": "Testeroni",
+      "firstname": "",
       "lastname": "Tester",
       "studentnumber": 123456
     },
