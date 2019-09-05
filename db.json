@@ -4,25 +4,29 @@
       "id": 123456,
       "firstname": "Eldert",
       "lastname": "Anderson",
-      "studentnumber": 123456
+      "studentnumber": 123456,
+      "city": "Amsterdam"
     },
         {
       "id": 111111,
       "firstname": "Marlijn",
       "lastname": "de Weert",
-      "studentnumber": 654321
+      "studentnumber": 654321,
+      "city": "Amsterdam"
     },
         {
       "id": 222222,
       "firstname": "Aad",
       "lastname": "Drupsteen",
-      "studentnumber": 456123
+      "studentnumber": 456123,
+      "city": "Amsterdam"
     },
         {
       "id": 333333,
       "firstname": "Bas",
       "lastname": "Vinkers",
-      "studentnumber": 222222
+      "studentnumber": 222222,
+       "city": "Amsterdam"
     }
   ],
   "profile": {
