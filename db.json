@@ -2,26 +2,26 @@
   "students": [
     {
       "id": 123456,
-      "firstname": "",
-      "lastname": "Tester",
+      "firstname": "Eldert",
+      "lastname": "Anderson",
       "studentnumber": 123456
     },
         {
-      "id": 2,
-      "firstname": "Testeroni",
-      "lastname": "Tester",
+      "id": 111111,
+      "firstname": "Marlijn",
+      "lastname": "de Weert",
       "studentnumber": 654321
     },
         {
-      "id": 3,
-      "firstname": "Testeroni",
-      "lastname": "Tester",
+      "id": 222222,
+      "firstname": "Aad",
+      "lastname": "Drupsteen",
       "studentnumber": 456123
     },
         {
-      "id": 4,
-      "firstname": "Testeroni",
-      "lastname": "Tester",
+      "id": 333333,
+      "firstname": "Bas",
+      "lastname": "Vinkers",
       "studentnumber": 222222
     }
   ],
